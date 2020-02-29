@@ -6,6 +6,7 @@ public class HelloWorldTest {
 		public void testApp()
 		{
 	    System.out.println("Hello World Welcome!!!");
+	    System.out.println("Git demo");
 
 }
 }

@@ -13,6 +13,7 @@ public class GoogleTest {
 	driver.get("https://google.com/");	
 	
 	System.out.println("Google Home Page displayed !!!");
+	System.out.println("Git demo");
 
 	}
 }
